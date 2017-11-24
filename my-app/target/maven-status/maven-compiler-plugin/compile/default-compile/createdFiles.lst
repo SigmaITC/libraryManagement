@@ -1,0 +1,4 @@
+com\mylibrary\model\User.class
+com\mylibrary\model\Customer.class
+com\mylibrary\repository\CustomerRepository.class
+com\mylibrary\app\App.class
